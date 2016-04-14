@@ -1,0 +1,6 @@
+This is a file for testing squash.
+
+But the library is not building.
+So I had to remove whitespaces.
+
+I now have to upgrade to the new headers.
